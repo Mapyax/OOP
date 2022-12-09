@@ -1,0 +1,28 @@
+﻿  ConsoleApplication1.cpp
+D:\OOP6\point.h(49,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(49,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(50,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(84,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\OOP6\point.h(84,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\OOP6\point.h(114,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(114,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(115,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(116,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(136,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(136,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(137,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(138,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(158,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\OOP6\point.h(160,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(160,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(161,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP6\point.h(165,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\OOP6\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\ИТ\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\ИТ\OOP3\x64\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\ИТ\OOP4\x64\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\ИТ\OOP5\x64\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\ИТ\OOP6\x64\Debug\ConsoleApplication1.exe
+D:\OOP6\x64\Debug\ConsoleApplication1.exe
